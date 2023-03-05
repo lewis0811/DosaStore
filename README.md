@@ -32,7 +32,7 @@ This is a Clothing Store Project built using Java, JSP/Servlet, and JDBC. The pr
 3. Execute sql script in root folder using MSSQL
 4. Configure your database connection in the `DbConnection.java` file located in `src/java/context/DBUtils.java`
 5. Run the project on a server
-6. Access the project in a web browser at `http://localhost:<PORT>/clothingstore`
+6. Access the project in a web browser at `http://localhost:<PORT>/home`
 
 ## Database Schema
 
