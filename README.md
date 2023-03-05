@@ -23,7 +23,7 @@ This is a Clothing Store Project built using Java, JSP/Servlet, and JDBC. The pr
 - Java
 - JSP/Servlet
 - JDBC
-- MySQL
+- MSSQL
 
 ## Setup
 
